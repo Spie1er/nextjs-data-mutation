@@ -77,6 +77,9 @@ main {
 #latest-posts {
   margin-top: 2rem;
 }
+.form-control {
+  margin-top: 20px;
+}
 
 .form-control label,
 .form-control input,
